@@ -14,7 +14,7 @@ This project demonstrates the integration of Google Cloud Dataproc, Apache Spark
 
 ### 1. Set Up Google Cloud Resources
 
-1. **Create a GCS bucket** to store the output or temporary data and upload the CSV file.
+1. **Create a GCS bucket** to store the output or temporary data and upload the customers-100.csv file.
 
 
 ### 2. Upload the PySpark Script to GCS
